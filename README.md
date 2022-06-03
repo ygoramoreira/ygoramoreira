@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ygoramoreira/d1079a12a1764701906c0bb8fba7f5d1/raw/840868ed3f3dba947e82a9ec611848f6a5d2723c/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ygor Moreira, Alias "Minerva"</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ygoramoreira&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Developer .lua
 

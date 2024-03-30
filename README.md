@@ -3,13 +3,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ygor Moreira, Alias "Minerva"</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ygoramoreira&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Developer .lua
+- 🔥 Devops
 
 - 🔭 I’m currently working at [Uniavan](https://github.com/)
 
 - 👨‍💻 All of my projects are available at [github.com/ygoramoreira](https://github.com/ygoramoreira)
 
-- 💬 Ask me about **.Lua, JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **Dockers, Linux**
 
 <br><br>
 
